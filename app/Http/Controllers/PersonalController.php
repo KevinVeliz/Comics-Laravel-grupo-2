@@ -33,9 +33,9 @@ class PersonalController extends Controller
 
         ["Nombre"=>'Erick',
             "Apellido"=>'Andrade',
-            "Contacto"=>'',
-            "Web"=>'',
-            "img"=>''
+            "Contacto"=>'0961937000',
+            "Web"=>'https://github.com/ErickEpnf18',
+            "img"=>'https://avatars.githubusercontent.com/u/66393507?s=400&u=7f9cd59ca9d9a331675e9d99d345942b1859ae6f&v=4'
         ],
 
         ["Nombre"=>'Jhoana',
